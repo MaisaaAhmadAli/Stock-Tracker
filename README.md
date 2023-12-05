@@ -17,4 +17,4 @@ Provide step-by-step instructions on how to install the necessary components and
 
 ```bash
 #pip install ta
-#pip install pandas_ta
+
