@@ -17,11 +17,10 @@ The stock market is an ever-changing (dynamic) environment whose movements and f
 
 ## Requirements
 
-List any prerequisites or dependencies needed to run the project. Include information about necessary Python packages, libraries, or any other tools.
+- Python 3.9 or higher
 
 ## Installation
 
-Provide step-by-step instructions on how to install the necessary components and set up the project locally. Include code snippets and commands if applicable.
 
 ```bash
 #pip install ta
@@ -39,7 +38,7 @@ To use the stock tracker project, follow these steps:
 
 3. Make predictions: Use the trained models to make predictions on new or unseen data. This can be done by running the prediction script and providing the necessary inputs.
 
-4. Evaluate the models: Assess the performance of the models by comparing the predicted closing prices with the actual prices. Calculate evaluation metrics such as mean squared error (MSE) or mean absolute error (MAE).
+4. Evaluate the models: Assess the performance of the models by comparing the predicted closing prices with the actual prices. Calculate evaluation metrics : mean absolute error (MAE).
 
 ## Data
 
@@ -65,7 +64,5 @@ Additionally, calculate evaluation metrics such as mean squared error (MSE), roo
 
 Contributions to the stock tracker project are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request. Please follow the existing code style and guidelines.
 
-## License
 
-The stock tracker project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal or commercial purposes.
 
