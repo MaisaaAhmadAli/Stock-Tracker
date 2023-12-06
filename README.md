@@ -27,6 +27,8 @@ Provide step-by-step instructions on how to install the necessary components and
 #pip install ta
 #pip install TA-Lib
 
+```
+
 ## Usage
 
 To use the stock tracker project, follow these steps:
