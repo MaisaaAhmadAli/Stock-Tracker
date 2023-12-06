@@ -42,9 +42,7 @@ To use the stock tracker project, follow these steps:
 
 ## Data
 
-The stock tracker project requires historical stock price data to train and evaluate the models. Ensure that the data is in a suitable format, such as a CSV file, with columns representing the date, open price, high price, low price, closing price, and volume.
-
-You may find relevant stock price datasets from various sources, such as financial APIs or publicly available datasets. Ensure that you have the necessary permissions or licenses to use the data for your project.
+Collected from Saudi Exchange
 
 ## Models
 
@@ -52,13 +50,11 @@ The stock tracker project employs LSTM and GRU models for predicting stock closi
 
 The LSTM model consists of LSTM layers followed by one or more fully connected layers. The GRU model follows a similar architecture, but utilizes Gated Recurrent Units instead of LSTM units.
 
-The models can be customized by adjusting various hyperparameters, such as the number of hidden units, the number of layers, the learning rate, and the activation functions. Experiment with different configurations to achieve the best performance.
+
 
 ## Results
 
-After training and evaluating the models, you can analyze the results to determine their accuracy and reliability. Plot the predicted closing prices against the actual prices to visually assess the performance of the models.
-
-Additionally, calculate evaluation metrics such as mean squared error (MSE), root mean squared error (RMSE), mean absolute error (MAE), or other appropriate metrics to quantitatively evaluate the models' performance.
+After training and evaluating the models,we got on mean absolute error (MAE) of 0.012
 
 ## Contributing
 
