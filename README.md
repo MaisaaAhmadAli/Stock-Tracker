@@ -9,11 +9,11 @@ The stock market is an ever-changing (dynamic) environment whose movements and f
 - [Requirements](#Requirements)
 - [Installation](#installation)
 - [Usage](#Usage)
-- [Data](#data)
-- [Models](#models)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [Data](#Data)
+- [Models](#Models)
+- [Results](#Results)
+- [Contributing](#Contributing)
+- [License](#License)
 
 ## Requirements
 
